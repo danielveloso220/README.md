@@ -35,3 +35,17 @@ Ele permite **controle de usuários, cadastro de pacientes e agendamento de cons
 ---
 
 ## 📂 Estrutura do projeto
+
+---
+
+## 🖼️ Telas do sistema
+- Tela de **Login**  
+- Tela de **Gerenciamento de Pacientes**  
+- Tela de **Gerenciamento de Consultas**  
+
+---
+
+## 🛠️ Como executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/SEU_USUARIO/ClinicaApp.git
