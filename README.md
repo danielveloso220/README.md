@@ -52,9 +52,8 @@ Ele permite **controle de usuários, cadastro de pacientes e agendamento de cons
    
 ---
 
-
-```bash
-git add README.md
-git commit -m "Adicionado README.md com documentação do projeto"
+git rm --cached "clinicapp atv4.zip"
+git commit -m "Removendo arquivo zip do repositório"
 git push
+
 
