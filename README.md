@@ -53,7 +53,7 @@ Ele permite **controle de usuários, cadastro de pacientes e agendamento de cons
 ---
 
 git rm --cached "clinicapp atv4.zip"
-git commit -m "Removendo arquivo zip do repositório"
+git commit -m "Subindo código-fonte do clinicapp atv 4"
 git push
 
 
