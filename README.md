@@ -52,7 +52,6 @@ Ele permite **controle de usuários, cadastro de pacientes e agendamento de cons
    
 ---
 
-👉 Basta criar um arquivo `README.md` dentro da pasta do seu projeto, colar esse conteúdo, salvar e depois rodar:  
 
 ```bash
 git add README.md
