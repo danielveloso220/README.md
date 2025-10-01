@@ -49,3 +49,13 @@ Ele permite **controle de usuários, cadastro de pacientes e agendamento de cons
 1. Clone este repositório:
    ```bash
    git clone https://github.com/SEU_USUARIO/ClinicaApp.git
+   
+---
+
+👉 Basta criar um arquivo `README.md` dentro da pasta do seu projeto, colar esse conteúdo, salvar e depois rodar:  
+
+```bash
+git add README.md
+git commit -m "Adicionado README.md com documentação do projeto"
+git push
+
